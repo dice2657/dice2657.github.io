@@ -1,4 +1,5 @@
 header, section, footer {
  border-style: solid blue;
  border-width: 2px;
+ text-align: center;
 }
