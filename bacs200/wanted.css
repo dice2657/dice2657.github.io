@@ -3,6 +3,10 @@ header,section,footer {
  border-color: blue;
  border-width: 2px;
  text-align: center;
+ margin-top:1in;
+ margin-bottom:1in;
+ margin-left:1in;
+ margin-right:1in;
 }
 section > p {
  text-align: left;
