@@ -1,5 +1,6 @@
 section {
- border-style: solid blue;
+ border-style: solid;
+ border-color: blue;
  border-width: 2px;
  text-align: center;
 }
