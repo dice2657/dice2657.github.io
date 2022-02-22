@@ -14,7 +14,6 @@ header,section,footer {
 }
 section > p {
  text-align: left;
- float: left;
 }
 img {
  float: left;
