@@ -4,3 +4,6 @@ header,section,footer {
  border-width: 2px;
  text-align: center;
 }
+section > p {
+ text-align: left;
+}
