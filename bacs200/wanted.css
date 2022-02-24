@@ -28,6 +28,9 @@ padding-left: 2px;
 #wantedList {
  font-size:24pt;
  float:right;
+ margin-left:-4in;
+ padding-left:-4in;
+ 
 }
 img {
  text-align:left;
