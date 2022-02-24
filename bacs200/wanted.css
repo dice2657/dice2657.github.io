@@ -5,7 +5,7 @@ header,main,footer {
 }
 header {
 text-align: center;
-width: 6in;
+width:auto;
 margin:auto;
 font-size: 80pt;
 }
