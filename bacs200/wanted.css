@@ -42,12 +42,13 @@ img {
  margin:auto;
  width: 496px;
 }
-p {
- font-size: 50pt;
+main p {
+ font-size: 42pt;
  text-align:center;
 }
 footer {
  text-align:center;
+ font size: 36pt;
 }
 
 
