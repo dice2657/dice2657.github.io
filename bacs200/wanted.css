@@ -44,6 +44,10 @@ img {
 }
 p {
  font-size: 50pt;
+ text-align:center;
+}
+footer {
+ text-align:center;
 }
 
 
