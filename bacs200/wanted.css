@@ -19,6 +19,9 @@ header,main {
 main {
  margin:auto;
 }
+main h2 {
+ font-size:36pt;
+}
 main ul {
 display:table;
 margin:0 auto;
