@@ -15,6 +15,9 @@ header,main {
  padding-right:5px;
  background-color:red;
 }
+header {
+width:6in;	
+}
 main ul {
  display:  table;
 	margin: 0 auto;
@@ -25,6 +28,7 @@ main ul {
  font-size:24pt;
  float:right;
 }
+
 
 
 
