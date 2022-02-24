@@ -32,10 +32,6 @@ display:table;
 margin:0 auto;
 text-align:left;
 padding-left: 2px;
-border-width:2px;
-border-style: solid;
-border-color: black;
-background-color:white;
 }
 #wantedList {
  font-size:64pt;
