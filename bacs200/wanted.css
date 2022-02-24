@@ -7,7 +7,7 @@ header {
 text-align: center;
 width: 6in;
 margin:auto;
-font-size: 40pt;
+font-size: 80pt;
 }
 header,main {
  padding-top:5px;
@@ -24,7 +24,7 @@ main {
  margin:auto;
 }
 main h2 {
- font-size:36pt;
+ font-size:80pt;
  text-align:center;
 }
 main ul {
