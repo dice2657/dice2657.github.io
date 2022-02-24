@@ -2,11 +2,13 @@ header,main,footer {
  border-style: solid;
  border-color: black;
  border-width: 2px;
- text-align: center;
  margin-top:1in;
  margin-bottom:1in;
  margin-left:1in;
  margin-right:1in;
+}
+header > h2 {
+text-align: center;	
 }
 header,main {
  padding-top:5px;
@@ -19,10 +21,10 @@ header {
 width:6in;	
 }
 main ul {
- display:  table;
-	margin: 0 auto;
-	text-align:  left;
-	padding-left: 2px;
+display:table;
+margin:0 auto;
+text-align:left;
+padding-left: 2px;
 }
 #wantedList {
  font-size:24pt;
