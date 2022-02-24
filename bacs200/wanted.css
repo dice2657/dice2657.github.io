@@ -21,6 +21,7 @@ main {
 }
 main h2 {
  font-size:36pt;
+ text-align:center;
 }
 main ul {
 display:table;
