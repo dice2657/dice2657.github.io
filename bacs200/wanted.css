@@ -7,10 +7,10 @@ header,section,footer {
  margin-bottom:1in;
  margin-left:1in;
  margin-right:1in;
- padding-top:1in;
- padding-bottom:1in;
- padding-left:1in;
- padding-right:1in;
+ padding-top:5px;
+ padding-bottom:5px;
+ padding-left:5px;
+ padding-right:5px;
 }
 section > p {
  text-align: left;
