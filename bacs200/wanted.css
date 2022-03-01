@@ -10,14 +10,8 @@ margin:auto;
 font-size: 80pt;
 }
 header,main {
- padding-top:5px;
- padding-bottom:5px;
- padding-left:5px;
- padding-right:5px;
- margin-left:1in;
- margin-right:1in;
- margin-top:1in;
- margin-bottom:1in;
+ padding:5px;
+ margin:1in;
  background-color:red;
 }
 main {
