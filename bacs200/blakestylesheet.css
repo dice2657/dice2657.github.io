@@ -1,8 +1,12 @@
 @font-face {
-  
+  font-family:'Mali-Regular';
+  src:url(https://dice2657.github.io/bacs200/Mali-Regular.ttf") format('truetype');
 }
 
 h1 {
-  
+  font-family:'Mali-Regular';
+  font-size: 32px;
 }
+h2 {
+  
 
