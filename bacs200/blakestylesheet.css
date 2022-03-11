@@ -57,6 +57,51 @@ table {
 .alias {
   font-size: 36px; 
         }
+header,main,footer {
+ border-style: solid;
+ border-color: black;
+ border-width: 2px;
+}
+header {
+text-align: center;
+width:auto;
+margin:auto;
+font-size: 80pt;
+}
+header,main {
+ padding:5px;
+ margin:1in;
+ background-color:red;
+}
+main {
+ margin:auto;
+}
+main h2 {
+ font-size:80pt;
+ text-align:center;
+}
+main ul {
+display:table;
+margin:0 auto;
+text-align:left;
+padding-left: 2px;
+}
+#wantedList {
+ font-size:64pt;
+ float:right;
+}
+img {
+ margin:auto;
+ width: 496px;
+}
+main p {
+ font-size: 42pt;
+ text-align:center;
+}
+footer {
+ text-align:center;
+ font-size: 36pt;
+}
       
   
 
