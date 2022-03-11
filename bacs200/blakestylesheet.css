@@ -126,7 +126,7 @@ tr > td {
 div {
   max-width:854px;
   position:relative;
-  height:0;
+  height:120px;
   padding-bottom:56.25%;
 }
 iframe {
