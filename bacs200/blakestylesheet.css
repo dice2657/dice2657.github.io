@@ -92,7 +92,8 @@ padding-left: 2px;
 }
 img {
  margin:auto;
- width: 258px;
+ width:200px;
+ height:400px;
 }
 main p {
  font-size: 42px;
