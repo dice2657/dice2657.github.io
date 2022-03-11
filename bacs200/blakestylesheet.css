@@ -1,6 +1,8 @@
 @font-face {
   font-family:'Mali-Regular';
-  src:url(https://dice2657.github.io/bacs200/Mali-Regular.ttf") format('truetype');
+  src:url(https://dice2657.github.io/bacs200/Mali-Regular.ttf) format('truetype');
+  font-family:'Faustina-Regular';
+  src:url(https://dice2657.github.io/bacs200/Faustina-Regular.ttf) format('truetype');
 }
 
 h1 {
@@ -8,5 +10,26 @@ h1 {
   font-size: 32px;
 }
 h2 {
+  font-family:'Faustina-Regular';
+  font-size:28px;
+}
+h3 {
+  font-family:'Faustina-Regular';
+  font-size:18px;
+}
+p {
+ font-family:'Faustina-Regular';
+ font-size:12px;
+}
+a {
+ color:gold; 
+}
+ol,ul,li {
+  color:white;
+}
+body {
+ background-color:darkblue; 
+}
+ 
   
 
