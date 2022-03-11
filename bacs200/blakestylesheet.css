@@ -26,12 +26,12 @@ h2 {
 }
 h3 {
   font-family:'Faustina-Regular';
-  font-size:18px;
+  font-size:20px;
   color:white;
 }
 p {
  font-family:'Faustina-Regular';
- font-size:12px;
+ font-size:16px;
  color:white;
 }
 a {
@@ -91,7 +91,7 @@ main {
  margin:auto;
 }
 main h2 {
- font-size:80pt;
+ font-size:60px;
  text-align:center;
 }
 main ul {
