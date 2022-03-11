@@ -123,6 +123,12 @@ footer {
 tr > td {
  color:white; 
 }
+div {
+  max-width:854px;
+  position:relative;
+  height:0;
+  padding-bottom:56.25%;
+}
       
   
 
