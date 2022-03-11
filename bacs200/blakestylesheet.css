@@ -1,8 +1,8 @@
 @font-face {
   font-family:'Mali-Regular';
-  src:url(https://dice2657.github.io/bacs200/Mali-Regular.ttf) format('truetype');
+  src:url('https://dice2657.github.io/bacs200/Mali-Regular.ttf') format('truetype');
   font-family:'Faustina-Regular';
-  src:url(https://dice2657.github.io/bacs200/Faustina-Regular.ttf) format('truetype');
+  src:url('https://dice2657.github.io/bacs200/Faustina-Regular.ttf') format('truetype');
 }
 
 h1 {
