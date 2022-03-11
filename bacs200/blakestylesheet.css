@@ -36,6 +36,7 @@ p {
 }
 a {
  color:gold; 
+ text-align:center;
 }
 b, strong {
  font-family:'Faustina-Bold'; 
