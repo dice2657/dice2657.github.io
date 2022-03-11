@@ -57,6 +57,7 @@ caption {
 th {
  width:200px;
  font-size:25px;
+ color:white;
     }
 th,td {
   border: 1px solid gold;
