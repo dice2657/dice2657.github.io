@@ -6,6 +6,14 @@
     font-family:'Faustina-Regular';
   src:url('https://dice2657.github.io/bacs200/Faustina-Regular.ttf') format('truetype');
 }
+@font-face {
+    font-family:'Faustina-Bold';
+  src:url('https://dice2657.github.io/bacs200/Faustina-Bold.ttf') format('truetype');
+}
+@font-face {
+    font-family:'Faustina-Italic';
+  src:url('https://dice2657.github.io/bacs200/Faustina-Italic.ttf') format('truetype');
+}
 h1 {
   font-family:'Mali-Regular';
   font-size: 32px;
@@ -28,6 +36,12 @@ p {
 }
 a {
  color:gold; 
+}
+b, strong {
+ font-family:'Faustina-Bold'; 
+}
+em {
+  font-family:'Faustina-Italic';
 }
 ol,ul,li {
   color:gold;
