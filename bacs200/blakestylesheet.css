@@ -110,7 +110,7 @@ padding-left: 2px;
 img {
  margin:auto;
  width:200px;
- height:320px;
+ height:auto;
 }
 main p {
  font-size: 32px;
