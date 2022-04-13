@@ -3,7 +3,9 @@
    padding: 180px;
 }
 
-* {box-sizing:border-box}
+* {box-sizing:border-box;
+   text-align: center
+}
 
 /* Slideshow container */
 .slideshow-container {
