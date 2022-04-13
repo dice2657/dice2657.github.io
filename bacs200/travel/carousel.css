@@ -1,6 +1,6 @@
 .inline {
  display: inline; 
- text-align:justify;
+   padding: 180px;
 }
 
 * {box-sizing:border-box}
