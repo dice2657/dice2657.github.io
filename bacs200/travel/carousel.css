@@ -1,6 +1,6 @@
 .inline {
  display: inline; 
-   padding: 180px;
+   padding: 260px;
 }
 
 * {box-sizing:border-box;
@@ -10,7 +10,9 @@
 .slideshow-container {
   max-width: 1000px;
   position: relative;
-  margin: auto;
+  margin-top:30px;
+ margin-left:auto;
+ margin-right:auto;
 }
 
 /* Make the images invisible by default */
