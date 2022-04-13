@@ -80,10 +80,10 @@ body {
   color: #f62f5e;
 }
 .step.active + .step {
-  background-color: #f62f5e;
+  background-color: black;
 }
 .step.active + .step:before {
-  color: #f62f5e;
+  color: black;
 }
  
 .step:nth-child(1):before {
@@ -210,13 +210,13 @@ input[type='password']:focus {
 }
  
 .back-btn {
-  color: #f62f5e;
+  color: black;
   background: #fff;
 }
  
 .next-btn {
   color: #fff;
-  background: #f62f5e;
+  background: black;
 }
  
 .btn:focus {
