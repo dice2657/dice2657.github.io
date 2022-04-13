@@ -1,5 +1,6 @@
 .inline {
  display: inline; 
+ text-align:justify;
 }
 
 * {box-sizing:border-box}
