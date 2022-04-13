@@ -71,13 +71,13 @@ body {
 }
  
 .step.active {
-  background-color: #f62f5e;
+  background-color: black;
 }
 .step.active:after {
-  background-color: #f62f5e;
+  background-color: black;
 }
 .step.active:before {
-  color: #f62f5e;
+  color: black;
 }
 .step.active + .step {
   background-color: black;
