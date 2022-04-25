@@ -20,5 +20,14 @@ h2 {
   font-size:20vw;
 }
 h3 {
-  font-family: 
+  font-family:'Faustina-Regular';
+  font-size:15vw;
+}
+h4 {
+ font-family:'Faustina-Regular';
+ font-size:12vw;
+}
+li, p {
+ font-family:'Faustina-Regular';
+ font-size:10vw;
 }
